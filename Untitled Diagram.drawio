@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="W9INsLO4mYk--5sjCbNB">
-    <mxGraphModel>
+    <mxGraphModel dx="1149" dy="1417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="85Df8RQoVTnC00z628lj-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="-152" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85Df8RQoVTnC00z628lj-2" value="System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="-333" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85Df8RQoVTnC00z628lj-3" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85Df8RQoVTnC00z628lj-4" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="174" y="-549" width="271" height="396" as="geometry" />
+        </mxCell>
+        <mxCell id="85Df8RQoVTnC00z628lj-5" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-474" width="123" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
